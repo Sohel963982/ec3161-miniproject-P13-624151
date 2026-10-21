@@ -1,0 +1,7 @@
+Method,Games,Wins,Win_Rate,CI_Lower,CI_Upper,Time_s,Guess_Rate
+Baseline (Random) - Beginner,1000,0,0.0,0.0,0.0038,0.15,0.0
+Logical Agent - Beginner,1000,511,0.511,0.48,0.5419,251.94,1.0
+Baseline (Random) - Intermediate,200,0,0.0,0.0,0.0188,0.03,0.0
+Logical Agent - Intermediate,200,66,0.33,0.2686,0.3978,115.22,1.0
+Baseline (Random) - Expert,50,0,0.0,0.0,0.0714,0.01,0.0
+Logical Agent - Expert,50,2,0.04,0.011,0.1346,82.7,1.0
